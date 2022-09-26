@@ -7,16 +7,11 @@
 ./mvnw test
 ```
 
-## Provided Code
+## Running Docker Oracle
 
-### Hibernate ORM
+https://github.com/rafaelchagasb/dockers/tree/main/oracle
 
-Create your first JPA entity
+## Dependencies
 
-[Related guide section...](https://quarkus.io/guides/hibernate-orm)
-
-### RESTEasy JAX-RS
-
-Easily start your RESTful Web Services
-
-[Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
+- Hibernate ORM
+- RESTEasy JAX-RS
